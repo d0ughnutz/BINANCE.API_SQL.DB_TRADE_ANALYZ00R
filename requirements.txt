@@ -1,0 +1,4 @@
+setuptools==67.7.2
+requests~=2.29.0
+pandas~=2.0.1
+psycopg2~=2.9.6
