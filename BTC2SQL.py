@@ -1,6 +1,6 @@
-# GEMINI | Take Home Part 1
-# Doug Gorman
-# 03.13.23
+# API2SQLDB
+# d0ughnutz
+# 2023
 
 # OVERVIEW
 # 1. Export data from Binance.US API for trading pair BTC-USD in 1 minute candle grain
