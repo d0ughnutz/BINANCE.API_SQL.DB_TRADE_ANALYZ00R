@@ -1,4 +1,4 @@
-# API TO SQL DB
+# Get crypto API data and store in a PosgreSQL DB
 
 This script can be used to get cryptocurrency data from public APIs for further analysis in a SQL database.
 
